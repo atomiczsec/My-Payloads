@@ -25,8 +25,10 @@ A payload to exfiltrate bookmarks of the 2 most popular browsers
 
 ## Description
 
-This payload will enumerate through the browser directories, looking for the file that stores the bookmark history 
+This payload will enumerate through the browser directories, looking for the file that stores the bookmark history
+
 These files will be saved to the temp directory
+
 Finally dropbox will be used to exfiltrate the files to cloud storage
 
 ## Getting Started
