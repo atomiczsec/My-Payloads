@@ -46,7 +46,9 @@ iwr -useb https://git.io/debloat|iex
 All contributors names will be listed here:
 
 [atomiczsec](https://github.com/atomiczsec)
+
 [Sycnex](https://github.com/Sycnex/Windows10Debloater)
+
 [I am Jakoby](https://github.com/I-Am-Jakoby/Powershell-to-Ducky-Converter)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
