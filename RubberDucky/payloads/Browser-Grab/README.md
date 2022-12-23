@@ -24,7 +24,9 @@ A payload to exfiltrate bookmarks, passwords, history and cookies of most popula
 ## Description
 
 This payload will exclude the C: drive on the device so Windows Defender doesnt flag the exe
+
 This payload will then download an exe designed to exfiltrate bookmarks, passwords, history and cookies of most popular browsers
+
 Finally, dropbox will be used to exfiltrate the files to cloud storage
 
 ## Getting Started
