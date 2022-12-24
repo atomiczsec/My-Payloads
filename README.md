@@ -1,4 +1,4 @@
-# Hak5 & FlipperZero HID Attack Payloads
+# Hak5 & FlipperZero HID Attack Payloads & Functions
 
 
 
