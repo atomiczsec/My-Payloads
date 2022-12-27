@@ -2,8 +2,7 @@
 
 
 
-This repostiory is a collection of my payloads designed for the USB rubber ducky, Bash Bunny, OMG cable and the FlipperZero. It mostly uses powershell and duckyscript.
-If you need help with any of these scripts feel free to reach out to me on:
+This repository is a collection of payloads that I have designed for use with various hardware hacking tools. These tools include the USB Rubber Ducky, the Bash Bunny, the OMG cable, and the FlipperZero. The payloads in this repository are primarily written in powershell and duckyscript, which are programming languages commonly used in the development of payloads for these types of tools. If you have any questions or need help with any of the scripts in this repository, you can reach out to me using the contact information provided. The payloads in this repository can be used to perform a variety of tasks, such as automating processes, executing commands, or exploiting vulnerabilities in systems. They can be particularly useful for penetration testing, cybersecurity research, and other activities that involve interacting with or manipulating computer systems.
 
 <div align='center'>
   
