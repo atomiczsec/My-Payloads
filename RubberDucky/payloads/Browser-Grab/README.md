@@ -27,14 +27,14 @@ This payload will exclude the C: drive on the device so Windows Defender doesnt 
 
 This payload will then download an exe designed to exfiltrate bookmarks, passwords, history and cookies of most popular browsers
 
-Finally, dropbox will be used to exfiltrate the files to cloud storage
+Finally, discord will be used to exfiltrate the files to cloud storage
 
 ## Getting Started
 
 ### Dependencies
 
 * DropBox or other file sharing service - Your Shared link for the intended file
-* Admin Privileges on the Device you are targeting
+* Admin privileges on the Device you are targeting
 * Windows 10,11
 
 <p align="right">(<a href="#top">back to top</a>)</p>
