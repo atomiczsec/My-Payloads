@@ -32,7 +32,7 @@ Finally, dropbox will be used to exfiltrate the files to cloud storage
 ### Dependencies
 
 * DropBox or other file sharing service - Your Shared link for the intended file
-* Admin Priveladges on the Device you are targeting
+* Admin privilegess on the Device you are targeting
 * Windows 10,11
 
 <p align="right">(<a href="#top">back to top</a>)</p>
