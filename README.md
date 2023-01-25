@@ -8,7 +8,7 @@ This repository is a collection of payloads that I have designed for use with va
   
 ### Quick Refrence
   
-<a href='https://twiiter.com/atomiczsec'>
+<a href='https://twitter.com/atomiczsec'>
   
 <img src='https://img.shields.io/twitter/follow/atomiczsec?style=social'>
   
