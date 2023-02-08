@@ -105,5 +105,6 @@ I am Jakoby
 
 * [Hak5](https://hak5.org/)
 * [I-Am-Jakoby](https://github.com/I-Am-Jakoby)
+* [Exe Author](https://github.com/moonD4rk/HackBrowserData)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
