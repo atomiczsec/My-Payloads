@@ -27,6 +27,10 @@ This payload will exclude the C: drive on the device so Windows Defender doesnt 
 
 This payload will then download an exe designed to exfiltrate bookmarks, passwords, history and cookies of most popular browsers
 
+Credits to the exe:
+
+https://github.com/moonD4rk/HackBrowserData
+
 Finally, discord will be used to exfiltrate the files to cloud storage
 
 ## Getting Started
