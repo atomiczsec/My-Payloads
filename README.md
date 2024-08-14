@@ -27,8 +27,6 @@ This repository is a collection of payloads that I have designed for use with va
 </a>
 </div>
 
-<img src="https://github.com/atomiczsec/My-Payloads/blob/main/Assets/read.png?" width="500">
-
 To learn more about Hak5 or the Flipper Zero , please visit their websites:
 
 - <a href="https://www.hak5.org">www.hak5.org</a>
