@@ -1,8 +1,7 @@
 # Hak5 & FlipperZero HID Attack Payloads & Functions
 
 
-
-This repository is a collection of payloads that I have designed for use with various hardware hacking tools. These tools include the USB Rubber Ducky, the Bash Bunny, the OMG cable, and the FlipperZero. The payloads in this repository are primarily written in powershell and duckyscript, which are programming languages commonly used in the development of payloads for these types of tools. If you have any questions or need help with any of the scripts in this repository, you can reach out to me using the contact information provided. The payloads in this repository can be used to perform a variety of tasks, such as automating processes, executing commands, or exploiting vulnerabilities in systems. They can be particularly useful for penetration testing, cybersecurity research, and other activities that involve interacting with or manipulating computer systems.
+This repository contains payloads designed for various hardware hacking tools, including the USB Rubber Ducky, Bash Bunny, OMG cable, and FlipperZero. Primarily written in PowerShell and Duckyscript, these languages are commonly used for developing such payloads. If you have questions or need help, contact me using the information in this README. These payloads can automate processes, execute commands, or exploit system vulnerabilities, making them useful for penetration testing, cybersecurity research, and interacting with computer systems.
 
 <div align='center'>
   
